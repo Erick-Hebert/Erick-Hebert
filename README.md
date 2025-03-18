@@ -5,4 +5,4 @@ I'm looking for new experiences and learning opportunities.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Hebert&layout=compact&theme=dracula)
 
-![Snake animation](https://github.com/Erick-Hebert/Erick-Hebert/blob/output/github-snake.svg)
+![snake gif](https://github.com/Erick_hebert/Erick_hebert/blob/output/github-snake-dark.svg)
